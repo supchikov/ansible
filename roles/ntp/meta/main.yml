@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  platforms:
+   - name: EL
+     versions:
+      - 5
+      - 6
+      - 7
+   - name: Ubuntu
+     versions:
+      - precise
+      - quantal
+      - raring
+      - saucy
+   - name: Suse
+     versions:
+      - 11
+      - 12
+  categories:
+   - system
+dependencies: []
