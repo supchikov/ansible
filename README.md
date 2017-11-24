@@ -7,6 +7,6 @@ To start work just install wget & run: <br />
 #./start.sh <br />
 
 Just execute <br /> 
-# ansible-playbook /etc/ansible/playbooks/configure-ntp.yml <br />
+#ansible-playbook /etc/ansible/playbooks/configure-ntp.yml <br />
 For 1st test <br />
 
